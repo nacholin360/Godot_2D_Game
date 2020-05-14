@@ -1,5 +1,5 @@
 extends KinematicBody2D
-
+#comentario fede
 var SPEED  = 3000
 var Velocity = Vector2()
 var gravity = 9.8
