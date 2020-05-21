@@ -1,0 +1,6 @@
+C:\Users\nacholin 360\Documents\GitHub\Godot\Godot_2D_Game\2D game\.mono\temp\bin\Tools\2D game.dll
+C:\Users\nacholin 360\Documents\GitHub\Godot\Godot_2D_Game\2D game\.mono\temp\bin\Tools\2D game.pdb
+C:\Users\nacholin 360\Documents\GitHub\Godot\Godot_2D_Game\2D game\.mono\temp\obj\Tools\2D game.csprojAssemblyReference.cache
+C:\Users\nacholin 360\Documents\GitHub\Godot\Godot_2D_Game\2D game\.mono\temp\obj\Tools\2D game.csproj.CoreCompileInputs.cache
+C:\Users\nacholin 360\Documents\GitHub\Godot\Godot_2D_Game\2D game\.mono\temp\obj\Tools\2D game.dll
+C:\Users\nacholin 360\Documents\GitHub\Godot\Godot_2D_Game\2D game\.mono\temp\obj\Tools\2D game.pdb
